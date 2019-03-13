@@ -44,3 +44,5 @@ forum_url: http://stackoverflow.com/questions/tagged/spring-security-oauth2
 version: 2.0.10.BUILD-SNAPSHOT
 exclude: [code]
 questions_url: http://spring.io/questions
+
+theme: jekyll-theme-merlot
